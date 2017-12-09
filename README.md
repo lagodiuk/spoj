@@ -1,5 +1,5 @@
 # spoj
-My solutions of some competitive programming problems (mostly related to the Dynamic Programming topic).
+My solutions of some competitive programming problems (mainly related to the Dynamic Programming topic).
 
 Some time ago I was trying to master the skills of solving the Dynamic Programming problems. Thus, I have solved a certain amount of the competitive programming problems related to this topic. 
 
@@ -8,6 +8,7 @@ So, please, read the code from this repository - only in case if you feel, that 
 
 Also, I would like to wish a best of luck for everybody on the rocky road of mastering the algorithmical problem solving skills!
 
+This is me on SPOJ: http://www.spoj.com/users/stemm/
 I know, that SPOJ ratings are changing over time, so the following screenshoots are mostly for myself :-)
 
 ![Screenshot2](info/screenshot2.png)
