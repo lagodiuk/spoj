@@ -8,6 +8,8 @@ So, please, read the code from this repository - only in case if you feel, that 
 
 Also, I would like to wish a best of luck for everybody on the rocky road of mastering the algorithmic problem solving skills!
 
+*P.S. Of course this code is NOT of a production quality. The biggest accent is made on the succinct  implementation of the algorithms in combination with runtime and memory optimizations, which allows to achieve the desired performance given the strict memory and time limitations. Also, I was trying to use the meaningful names of the variables and functions, however sometimes it was not easy to came up with a proper naming.*
+
 This is me on SPOJ: http://www.spoj.com/users/stemm/
 I know, that SPOJ ratings are changing over time, so the following screenshoots are mostly for myself :-)
 
